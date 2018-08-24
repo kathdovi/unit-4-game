@@ -9,6 +9,7 @@ Game accessible [here](https://kathdovi.github.io/unit-4-game/).
 ### Playing the Game
 
 The user starts by choosing their main character. Then, they are prompted to choose their first opponent. The opponents attack at different strengths, with those with higher HPs having higher attacks. After defeating one opponent, the user chooses another until all opponents are defeated. If at any point a player's HP drops to 0 or below, the game is over and the player loses. To win, the player must defeat all three remaining opponents without their HP falling to 0 or below.
+In the case of a win or loss of the game, the player can play again by pressing the reset button.
 
 ### Strategy
 
