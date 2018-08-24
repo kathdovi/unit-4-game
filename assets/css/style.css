@@ -53,3 +53,25 @@ button {
     border-width: 5px;
     border-color: #f2c300;
 }
+.card {
+    background-color: rgb(0, 184, 68, .5);
+}
+.card-body {
+    font-family: 'Exo 2', sans-serif;
+    opacity: 1;
+    color: white;
+}
+
+.battle-feedback {
+    text-align: center;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 20px;
+}
+
+.buffer {
+    height: 30%;
+}
+
+.btlfdb {
+    margin-top: 10%;
+}
