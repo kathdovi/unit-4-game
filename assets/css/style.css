@@ -45,3 +45,11 @@ h1{
 .battle-feedback {
     color: white;
 }
+
+button {
+    font-family: 'Audiowide', cursive;
+    color: #f2c300;
+    background-color: Transparent;
+    border-width: 5px;
+    border-color: #f2c300;
+}
