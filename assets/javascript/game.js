@@ -137,6 +137,9 @@ function playRound() {
                 $(".fighter-pics").on('click', '.fighter', function (e) {
                     $(".computer-fighter").append(this);
                     opponent = $(this).attr('class').split(' ').pop();
+                    if (opponentsKilled === 2) {
+                        $(".choose-fighter").empty();
+                    }
                     playRound();
                 });
             }
