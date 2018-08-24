@@ -1,0 +1,47 @@
+body {
+    background-image: url("https://media.giphy.com/media/UYBDCJjwOd9Re/giphy.gif");
+}
+
+h1{
+    text-align: center;
+    font-family: 'Audiowide', cursive;
+    color: #f2c300;
+}
+
+.header{
+    width: 100%;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(34, 34, 34, .6);
+    top: 0;
+    left: 0;
+}
+
+.choose-fighter {
+    font-family: 'Audiowide', cursive;
+    color: #f2c300;
+    padding-top: 20px;
+}
+.win-loss {
+    font-family: 'Audiowide', cursive;
+    color: #f2c300;
+    padding-top: 20px;
+    font-size: 40px;
+    text-align: center;
+}
+.battleTitle {
+    font-family: 'Audiowide', cursive;
+    color: #f2c300;
+    padding-top: 20px;
+}
+
+.attack {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.battle-feedback {
+    color: white;
+}
