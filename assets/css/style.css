@@ -11,8 +11,8 @@ h1{
 .header{
     width: 100%;
     margin: 0;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     background-color: rgb(34, 34, 34, .6);
     top: 0;
     left: 0;
@@ -21,7 +21,7 @@ h1{
 .choose-fighter {
     font-family: 'Audiowide', cursive;
     color: #f2c300;
-    padding-top: 20px;
+    padding-top: 10px;
 }
 .win-loss {
     font-family: 'Audiowide', cursive;
@@ -33,7 +33,7 @@ h1{
 .battleTitle {
     font-family: 'Audiowide', cursive;
     color: #f2c300;
-    padding-top: 20px;
+    padding-top: 10px;
 }
 
 .attack {
