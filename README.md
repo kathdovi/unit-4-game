@@ -4,7 +4,7 @@ This is a simple RPG game in which the player chooses their character and then f
 
 ## About this Game
 
-Game accessible [here] (https://kathdovi.github.io/unit-4-game/).
+Game accessible [here](https://kathdovi.github.io/unit-4-game/).
 
 ### Playing the Game
 
