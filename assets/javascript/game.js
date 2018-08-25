@@ -147,8 +147,4 @@ function playRound() {
         // The button goes twice without this  
         return false;
     }); 
-}
-
-// TODO: 
-// Provide feedback to player
-// Make the interface cleaner
+};
