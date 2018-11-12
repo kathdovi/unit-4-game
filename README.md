@@ -15,6 +15,9 @@ In the case of a win or loss of the game, the player can play again by pressing 
 
 Because there is no way to heal, the only way to win the game is to choose your opponents in the correct order. There are different strategies for different characters: some characters necessitate fighting the weaker opponents before the stronger opponents, and some characters necessitate the opposite.
 
+### Demo
+![](https://github.com/kathdovi/unit-4-game/blob/master/StarTrek_Brawl.gif)
+
 ## Built With
 
 * [jQuery](https://jquery.com/) - Javascript library used
